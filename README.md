@@ -1,2 +1,2 @@
-# imers-o-dados-python-alura
+# imersão-dados-python-alura
 Imersão de dados python junto com a Alura  
